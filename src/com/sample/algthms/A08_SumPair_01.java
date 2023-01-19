@@ -7,7 +7,7 @@ public class A08_SumPair_01 {
 	public static void main(String args[]) {
 		int a[] = { 2, 6, 4, 1, 5 };
 		
-		int sum = 4;
+		int sum = 2;
 		Arrays.sort(a);
 
 		int i = 0;
