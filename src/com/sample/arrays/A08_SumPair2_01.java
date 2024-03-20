@@ -1,4 +1,4 @@
-package com.sample.algthms;
+package com.sample.arrays;
 
 
 import java.util.HashMap;

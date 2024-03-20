@@ -1,10 +1,10 @@
-package com.sample.algthms;
+package com.sample.arrays;
 
 // two pinter technique
 // I finds for non zero and swap
 public class A09_ZeroesLast_14 {
 	public static void main(String args[]) {
-		int a[] = { 1, 0, 7, 0, 6, 88, 0, 2, 10, 0, 60 };
+		int a[] = { 1, 2, 7, 0, 6, 88, 0, 2, 10, 0, 60 };
 		int j = 0;
 		int temp;
 		

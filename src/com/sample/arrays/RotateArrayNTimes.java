@@ -1,4 +1,4 @@
-package com.sample.algthms;
+package com.sample.arrays;
 
 // https://www.geeksforgeeks.org/array-rotation/
 

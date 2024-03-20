@@ -47,6 +47,9 @@ public class Java8Examples {
 
         map.entrySet().forEach(e -> System.out.println(e.getKey()+"-"+e.getValue().size()));
         map.entrySet().stream().filter(e -> e.getKey()).collect(Collectors.toSet()).size();
+
+        // Sort by key / value in map
+        // Sort two dimentional or one dimentional array
     }
 
     private static Double calculateRewards(Double transAmt) {

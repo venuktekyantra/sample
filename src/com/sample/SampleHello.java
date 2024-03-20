@@ -6,7 +6,9 @@ import java.util.Set;
 public class SampleHello {
     public static void main(String[] args) {
 
-         String str = "abcdrf drf jkl";
+        System.out.println("");
+
+/*         String str = "abcdrf drf jkl";
          String find = "drf";
 
         System.out.println(str.indexOf(find));
@@ -19,7 +21,7 @@ public class SampleHello {
 
         int[] A = {1, 3, 6, 4, 1, 2};
         SampleHello s = new SampleHello();
-        System.out.println(s.solution(A));
+        System.out.println(s.solution(A));*/
 
     }
 
